@@ -1,0 +1,39 @@
+{
+    
+	"commonmessage":{
+		"staticcontent.internet.error":"يرجى التحقق من الإنترنت الخاص بك",
+		"staticcontent.quote.stepper": "اقتبس",
+		"staticcontent.moreinfo.stepper": "مزيد من المعلومات",
+		"staticcontent.payment.stepper": "دفع",
+		"staticcontent.policy.stepper": "سياسات"
+	},
+    "logoutButton": {
+    "click": "افتح",
+    "buttonText": "تسجيل الخروج"
+  },
+	"admin": {
+        "userName":"احمد",
+        "userTitle":"مطور برامج",
+		"page.title": "مشرف",
+        "header.title":"لوحة التحكم",
+        "layout.settings.title":"إعدادات التصميم",
+		"layout.theme.dark": "ليلي ",
+		"layout.theme.cosmic": "كوني",
+		"layout.theme.corporate": "ثيم 3",
+        "layout.align":"من اليمين الى اليسار",
+        "sidebar.nav.dashboard":"لوحة التحكم",
+        
+        "sidebar.nav.users":"المستخدمون",
+        "sidebar.nav.products":"منتجات",
+        "sidebar.nav.order":"الطلبات",
+         "sidebar.nav.userInterface":"واجهه المستخدمون"
+	},
+    "dashboard":{
+        "card.title.booking":"الحجز",
+        "card.title.visits":"زيارات الموقع",
+        "card.title.revenue":"ربح",
+        "card.title.users":"المستخدمون",
+        "card.footer":"تم التحديث منذ 1 دقائق"
+
+  }
+}
